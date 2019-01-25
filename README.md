@@ -16,7 +16,8 @@ email: joseant.silva@icloud.com (Apple Inc.)
 
 Original: https://codepen.io/collection/nxzZdW/
 
-//
+*////////////////////////////////////*
+
 Course license:
 
 The Complete Web Bootcamp in London with Angela Yu (@yu_angela)
@@ -28,7 +29,8 @@ London,
 EC2A 4BX
 
 London App Brewery © 2018
-//
+
+*////////////////////////////////////*
 
 Jan 21, 2019.
 Jan 25, 2019.
