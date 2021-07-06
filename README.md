@@ -1,21 +1,3 @@
-# Complete Web Bootcamp
-
-Made by Jose Antonio
-
-@tonyKingNZ : 
-
-https://GitHub.com/tonykingnz
-
-https://Instagram.com/tonyKingNZ
-
-https://Twitter.com/tonyKingNZ
-
-
-
-email: joseant.silva@icloud.com (Apple Inc.)
-
-
-
 Original: https://codepen.io/collection/nxzZdW/
 
 
